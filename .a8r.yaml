@@ -1,5 +1,5 @@
 k8s_config:
 - manifest_path: /manifests
   cluster_info:
-    cluster_id: 437be21f-3f26-5ed7-a6ec-0ee02197940d
-    cluster_name: Flynn a8rgitops test
+    cluster_id: d78dd84c-e122-5de4-b27c-e11c9fe11be0
+    cluster_name: flynn-t3
